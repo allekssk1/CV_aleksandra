@@ -1,10 +1,10 @@
 /* Use this file to use your own styles*/
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
-@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Hind:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@300&display=swap');
 /* Styles for the body */
 body {	
-	font-family: 'Berkshire Swash', cursive; 
+	font-family: 'IBM Plex Serif', serif; 
 }
 body {
 	color: #202030;
@@ -14,7 +14,7 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #ECD8F1;
+    background-color: #A67564;
 	color: aliceblue
 }
 
@@ -23,7 +23,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #AFADE3;
+	background-color: #D9D2CC;
 	color: aliceblue
 }
 
